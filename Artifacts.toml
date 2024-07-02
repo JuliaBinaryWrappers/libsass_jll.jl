@@ -1,288 +1,288 @@
 [[libsass]]
 arch = "aarch64"
-git-tree-sha1 = "1c67bf11df76b57bc4f90d0dbcdb7f054b48e4b9"
+git-tree-sha1 = "9a20b87513af545bcfecbf95db95b8afe4793e4b"
 os = "macos"
 
     [[libsass.download]]
-    sha256 = "1b0d3872c1ffab36e45f72ddebf31dd2cf29b9175590927ede9871222ad88948"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.aarch64-apple-darwin.tar.gz"
+    sha256 = "dec62e844aea8c313b70b77dfafac4f52b8d83f1848f627c541346cc199a6f90"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.aarch64-apple-darwin.tar.gz"
 [[libsass]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "95cf0082b9f1984b6569c2ea9c6e6835ffcebc3b"
+git-tree-sha1 = "777e58cc56db00557ff83c667be8f4af9cf258c1"
 libc = "glibc"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "9d0bf9bee96360e926eb310720be4a2287fe6d6ef2213c60e89932642390a7c1"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "c070361edfd30c24668ed1c215298eaee0f4690a70efc802dc7a3e724469f4ae"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.aarch64-linux-gnu-cxx03.tar.gz"
 [[libsass]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0f0e2a81420f82697e63bf5a9b12d7b80b1bf55c"
+git-tree-sha1 = "4aa5b0358c6764bcd6bbc1e16351dd844d383198"
 libc = "glibc"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "ad15b65a36467a8e0b3f815d513ba992aaaf4fa78f5ac18524d50f2fb6887a17"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "b9abda641f38c022a25f685435dd70ee6e6cc36d5cc83a7c112f36333ac56d9e"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.aarch64-linux-gnu-cxx11.tar.gz"
 [[libsass]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3c3025893fc45606137e2004abed4ce0c18e3134"
+git-tree-sha1 = "c947e157a4cd7e6b8c56ee84ba1e638b592fe9ae"
 libc = "musl"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "1f85f3ef10dd16892c718bed3b3c6f880d6a1665b403070ff5719daf6bcda895"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "6af8dd5e5303ffbc38835866748aff5f9ecd215b23da5dbb2ea21ee61ea0bd7a"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.aarch64-linux-musl-cxx03.tar.gz"
 [[libsass]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "166bf7b1c356df2258bef6125d86187e9089a839"
+git-tree-sha1 = "cee3343974bbaa330fd7da46b60362b46cfe36de"
 libc = "musl"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "35e280e9dfed3920bc7340b3a4dbe9914014648ab0cb1b77679c026ff84cc5b9"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "30f46ceeed410b97e4999a6291d1de53f24ca108c951aabaed6e29f89ee1413f"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.aarch64-linux-musl-cxx11.tar.gz"
 [[libsass]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9c33b96f65cff0c02cce318a237538033396e72b"
+git-tree-sha1 = "d27906b0775aabe4c2a358c8dd02f5cd85b000e3"
 libc = "glibc"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "1a66deea35b7f6b0687c7eafdc7315e1a787e305c30afb6d90f92a859dcbb332"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "5b5d8dc30df667751675b39f5c453e624452bb82ee3ef9fbda7e03ed465a3241"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[libsass]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fd1ed8da1dc98e63465ed469bef08edfbde955b7"
+git-tree-sha1 = "dd6242417f59d0707e5b53641a162934094e2106"
 libc = "glibc"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "4e148e81875152270d6e68553ef5c5b6b3904b18bf246f0b103696c2872b87d1"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "90182c531d3953195e577b21d73ab1bebc88071adce6b33e3ab17f0239ec88cc"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[libsass]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3523bdff8874d20897237c376df0dcd453a8b5cb"
+git-tree-sha1 = "a357b4dc49c046a707e728b1e5cdb214e1cf1480"
 libc = "musl"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "91cb2f27c0e9e1775840988915345a642220e98e70b1a3cea65f23cba999968e"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "a3d72f9a8fba891366f2b8e77770b1d1ac73de41b4fa89216908014f2aaac3fd"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[libsass]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "db24c82dbac93319b60aec1ca3b8509a322013bb"
+git-tree-sha1 = "7d6e7fe80e1bb7e1c67253a52a556f3bd0e21632"
 libc = "musl"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "ff4ee812e2ef265cf2f86c3395298de37d62b76de3fb652c89422054fc637918"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "65419b797175d45b3831b29297a1ff8bff9ef19e13d8149ffe4793239788a944"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[libsass]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "89ffcf951bde0760a265595a5056ba66d372cc4f"
+git-tree-sha1 = "4009f43b0df37290a014f288cabea5af8e164339"
 libc = "glibc"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "b71d91f1eceadf691b5d61f2153cfef571fb29671e9f4c8e5f793889850e5955"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "773f17c19e235b28cac713e4dde46eaf2df342b9fcb1ce7841a765246ef86c07"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[libsass]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3a18ba27b46dffefd812b0fbbee3b0f311b08e53"
+git-tree-sha1 = "a3a7887b5df20e53df62eb05301b7037e5dd9e6c"
 libc = "glibc"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "22d0df9a70cac161fb3d859a6df8da0f1220fee2dbd4edea08e6a7dc6d1d632f"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "6e644102c144ac03693b1ae2f729c8b1e96dbae8e02a2633098250b177abc040"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[libsass]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "20584849cbaa9d787b47c04d9124a2cb61791a55"
+git-tree-sha1 = "e57614e51ddd64ef191020959c94257c9b3cd200"
 libc = "musl"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "07c8044c758d0892c83eefd915731ff17e1417bc39823546c47fdc95e95c0537"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "9575881040435a79c2ff9d32c50efbe5bfcdfffe5afc92463bfb4aabf7d0557b"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[libsass]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8138046fc0a98613e35d030c56f8d0726386d1e8"
+git-tree-sha1 = "3ae74564fcb07797009e4fee22374535402827e0"
 libc = "musl"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "a981c9796c2e1f840523687a75839660bf5f7ab5d35db6e8f8f8a073b15d48f4"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "160769e169d54e01fda1a82ad98bad55dc0d651964e8049abcc7541fa5cd46c2"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[libsass]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "43d6f4c083de8c312ced7807bef7a0b90aeef5f8"
+git-tree-sha1 = "d90a4067e21317b25459864f59b03fa595b7aed8"
 libc = "glibc"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "237013e394a3582f81ff729069d4ffae13874be2747d5c025b98909a37da6a58"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "b611b593be52dfc7e7edb1f6a078db824077fe85e731f7b1e1d6a9611c0c20ff"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.i686-linux-gnu-cxx03.tar.gz"
 [[libsass]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d2144ef283d07d65921d68471631fe6941ad3b94"
+git-tree-sha1 = "221107a1db0aa5fe227197d4b1a6cbcc3e959133"
 libc = "glibc"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "8de1f9c7695a6cd7d401c31a4ff5c8b099c70853eacf6f4e68ba8e69e2664c7a"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "0c8380e46723d79933455ae74b50c35be8c956ff25e9afda42fd4de135e31758"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.i686-linux-gnu-cxx11.tar.gz"
 [[libsass]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "21cddba803aae5f42f84e5414d193b23414c28ec"
+git-tree-sha1 = "7162eadadb72bdd1533c72765d5cf6e4cc2399c0"
 libc = "musl"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "53cfe69b5a17f5f7b096b35c2c856833be894c19ed3399760b4e1e0a56385723"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "43cfa472e33276371dbc0d0ed846df0d93d5cea2c48cdc0267a8403d060befe7"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.i686-linux-musl-cxx03.tar.gz"
 [[libsass]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "91bd152c7f0ec5e112f12e3e17af433ea99f1740"
+git-tree-sha1 = "30ea8d5fc6050ec4ca8b86874f5151360359f128"
 libc = "musl"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "959782ab376c0160c2d28c79b94abea465f76f87342c5890fd55c23404b099a8"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "f9fd7702b5619554c9a89eb547e2978bd91a6fdfb3b54ee33558026ed6bae026"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.i686-linux-musl-cxx11.tar.gz"
 [[libsass]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "72e74d33276cbffedeeee98a9e397f87ccf984b9"
+git-tree-sha1 = "de77cf8b6fa903e42e32354be4ad3570e13c6980"
 os = "windows"
 
     [[libsass.download]]
-    sha256 = "d48f87eaf2c99305fc83a826b48bfd3e9e79b8ac4551785b200fd75fd9b34d9c"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "436e6adcbee873a89ba81bc0086b1c8db7a0f884cfe77e0794e0c403a160400b"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.i686-w64-mingw32-cxx03.tar.gz"
 [[libsass]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "42fe50d0f4b21b941b8cbe1f8e18ce3c91a4dd4a"
+git-tree-sha1 = "21ba2df64be3f8980798104ec3662edcacae024c"
 os = "windows"
 
     [[libsass.download]]
-    sha256 = "a5ee590c2e32b9fbe201942859bd1f5f13f618521a34e182f328a05ef7ffed82"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "f966c4997599527196fc49399f8e5631c6e48c4c15776bc50d53b49c68eb4b52"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.i686-w64-mingw32-cxx11.tar.gz"
 [[libsass]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "65817457cd9d5ab9b88c8e607d5bb109bb6df4b5"
+git-tree-sha1 = "fe55c841e0f6acf313d299dedefc1ac4c22e2ce9"
 libc = "glibc"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "de960d389cc32fc2166f119a6e59eef806c771c270daad8166bb60c005c832f0"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "e8af68b77e9c1ad05946be0f42006544732caf4f017150fae822eb59da252986"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[libsass]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e8f5b5ea9a9f0bd81e1c81f25188b177eb93fed6"
+git-tree-sha1 = "7303f8e466fcf05527916bd6a107d2f5a9b0ee6e"
 libc = "glibc"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "7d55b0586b6fb90c5ec17c8fcc07800b5514894fb7ecb4b392a3c697f11f7f17"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "3ec51befcd10df8cba5806d5cb40014c5f37e69cf265a38b546b74115acdb3d0"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[libsass]]
 arch = "x86_64"
-git-tree-sha1 = "5d080b5226a253e9b099f41c4705cdbf1dacb347"
+git-tree-sha1 = "417bfbab9b45e827b4de4be86b2070745f0511ea"
 os = "macos"
 
     [[libsass.download]]
-    sha256 = "5ea4cd78acc6eb6c0189f056e445b0fc2e951eda56d3e9e02dc538401f03e839"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.x86_64-apple-darwin.tar.gz"
+    sha256 = "172c131387a0cdc28ff5092a1daa0482045b780f6af42dc46c95bf60993c054e"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.x86_64-apple-darwin.tar.gz"
 [[libsass]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9ddfc4c1839d5996ec593960f6922783606eb80b"
+git-tree-sha1 = "57a94046ad34813b150773be5778d2780566ac13"
 libc = "glibc"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "9ee1096dad1cef0b4578db0b1b8d49235ac687fc5311f6b92b4e1e5d07dd6bbd"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "eadcfc788fdc03bee58519f1e5130dbb731f479f5d552eda4b7b47dbae6fff72"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.x86_64-linux-gnu-cxx03.tar.gz"
 [[libsass]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f800738add5637023bc0369e81c04015aa95889a"
+git-tree-sha1 = "a2cbe2ac1bcdf41e2c5d58c1c70c8c6d8ad38056"
 libc = "glibc"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "8aaf45b459db754d3aa04e723b45fa598e26be27fc2655e11b5ecb3968e46da8"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "7d0eb51830405c6643505ef99fb6ad0a99e233beb83058d72201f1fc91aa37e0"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.x86_64-linux-gnu-cxx11.tar.gz"
 [[libsass]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2a9edc5ce09d63c323677ad09e8504b6e836b52b"
+git-tree-sha1 = "6b5bd62892f142fbfb516d6bda6ec9514bd8688c"
 libc = "musl"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "ef50f6966584ddf8a9d09246094f0aefa9ff9907c753c9aedb4cfec85aa15403"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "6b734e0b61ea9ad5bfdb56771284986ae9bf5c8146c88763d96ba04afae65eb3"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.x86_64-linux-musl-cxx03.tar.gz"
 [[libsass]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "60da6e989f23db4e20257244431aaa0b669166e8"
+git-tree-sha1 = "a1a273c188dbb752789c2514da928337cf652e96"
 libc = "musl"
 os = "linux"
 
     [[libsass.download]]
-    sha256 = "a034124dda539173edf279db9eb78cf33c3015ef81370b93a93d83f725c76111"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "e734203da3d472afd945c46a707189fa38f2b53b866eda9ebfdbb048feb00053"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.x86_64-linux-musl-cxx11.tar.gz"
 [[libsass]]
 arch = "x86_64"
-git-tree-sha1 = "b481bcf0b8199030d27286277c480b3a24566dc5"
+git-tree-sha1 = "b53f9dc0b1eac3c4cd1169743889db02a338403f"
 os = "freebsd"
 
     [[libsass.download]]
-    sha256 = "74780189deee5936074477a174445fc6539e54f61ef50b7091454e7bab03d0ce"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "cca71330c5565af959d3627916a41e95f7f18a1835812dd50c2e424e2a303c5a"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.x86_64-unknown-freebsd.tar.gz"
 [[libsass]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bdf2aef1e15799b41f7631ecda3f17e97112cb89"
+git-tree-sha1 = "d4947422560ac9b7a33b90dca77d1fba38714f1c"
 os = "windows"
 
     [[libsass.download]]
-    sha256 = "81333b6712dd80222bfbfec574417c95575b0707a618b4794407e6617aeff11a"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "ed5e6ba8eb1ae8be8c2a5af581201116c99efa4c9cecabf695e4488bf7a955e3"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.x86_64-w64-mingw32-cxx03.tar.gz"
 [[libsass]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b14924176cc6a9eaab5d573c7b726c0c4d57182e"
+git-tree-sha1 = "0224c9c9ca98b6a9d21b4b19d7a702c6d56d4f21"
 os = "windows"
 
     [[libsass.download]]
-    sha256 = "20ee49733a99a27ccefcb5b8a9fd4cbf19cbdc9dcc817e984263a286544a16d7"
-    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.4+0/libsass.v3.6.4.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "a7059403f5957fb411045640a9655c60739440b63ccdf44a9648ad342a88906f"
+    url = "https://github.com/JuliaBinaryWrappers/libsass_jll.jl/releases/download/libsass-v3.6.6+0/libsass.v3.6.6.x86_64-w64-mingw32-cxx11.tar.gz"
